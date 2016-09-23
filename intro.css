@@ -1,0 +1,50 @@
+body {
+	background-color: #3385ff;
+	text-align: center;
+}
+
+#banner {
+	/*background-color:#00BCD4;*/
+	background: linear-gradient(to bottom right, green, white); /* Standard syntax */
+	width: 100%;
+}
+
+h1 {
+
+	text-align: center;
+	text-shadow: 5px 5px 5px green;
+}
+h2 {
+
+	text-align: center;
+}
+p {
+	text-align: center;
+}
+
+div {
+	text-align: center;
+}
+
+#slideshow {
+	border-style: ridge;
+	border-width: 10px;
+	border-color: green;
+	margin: auto;
+	width: 50%;
+	padding: 20px;
+	box-shadow: 8px 8px 8px #003311;
+}
+#testbutton{
+	background-color: green;
+	font-size: 2.2em;
+	box-shadow: 5px 5px 8px black;
+}
+#buttonpic{
+	border-style: ridge;
+	border-width:  7px;
+	border-color: green;
+	padding: 2px;
+	box-shadow: 5px 5px 8px black;
+	
+}
